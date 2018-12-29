@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    font-family: Helvetica;
+
+}
+body {
+    text-align: center;
+    color: Gray;
+    font-family: Helvetica;
+        font-size: 18px;
+    font-style: italic;
+}
+button {
+    background-color: #EC008F; /* Pink */
+    border: none;
+    color: white;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+}
