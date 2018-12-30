@@ -12,7 +12,7 @@ var quotes = [
 'Our wounds are often the openings into the best and most beautiful parts of us.',
 'No man can wear one face to themself and another to the multitude, without finally getting bewildered as to which may be true -Nathaniel Hawthorne',
 'A discovery is said to be an accident meeting a prepared mind.',
-'Apologizing doesn\'t mean you\'re wrong and the other person is right, it just means that you value your relationship more than your ego.,
+'Apologizing doesn\'t mean you\'re wrong and the other person is right, it just means that you value your relationship more than your ego.',
 'The question of what you want to own, is actually the question of how you want to live your life. -Marie Kondo',
 'Go confidently in the direction of your dreams. Live the life you\'ve imagined. -Henry David Thoreau.',	
 'How am I supposed to talk about how this quote resonates with my when Delanie is over here like \'I got my grandpa high and then I showed him my titties\' - Taylor Tomlinson',	
