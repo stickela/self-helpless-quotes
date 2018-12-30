@@ -22,7 +22,12 @@ button {
     font-weight: bold;
 }
 
+button {
+  -webkit-transition-duration: 0.2s; /* Safari */
+  transition-duration: 0.2s;
+}
+
 button:hover {
-  background-color: Gray; /* Gray*/
+  background-color: Gray; /* Gray */
   color: white;
 }
