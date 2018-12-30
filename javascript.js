@@ -8,7 +8,7 @@ var quotes = [
 'Sometimes you have to let go of the picture of what you thought life would be like and learn to find joy in the story you are actually living. -Rachel Marie Martin',
 'The question of what you want to own, is actually the question of how you want to live your life. - Marie Kondo',
 'A discovery is said to be an accident meeting a prepared mind. - Albert cent-Yorgi??',
-'You just spent 20 minutes looking at that chick from high school\'s ugly bangs, why are you doing this',
+'You just spent 20 minutes looking at that chick from high school\'s ugly bangs, why are you doing this - Kelsey Cook',
 'Our wounds are often the openings into the best and most beautiful parts of us.',
 'No man can wear one face to themself and another to the multitude, without finally getting bewildered as to which may be true -Nathaniel Hawthorne',
 'A discovery is said to be an accident meeting a prepared mind.',
