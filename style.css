@@ -22,7 +22,7 @@ button {
     font-weight: bold;
 }
 
-.button:hover {
+button:hover {
   background-color: Gray; /* Gray*/
   color: white;
 }
