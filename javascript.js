@@ -17,7 +17,6 @@ var quotes = [
 'Go confidently in the direction of your dreams. Live the life you\'ve imagined. -Henry David Thoreau.',	
 'How am I supposed to talk about how this quote resonates with my when Delanie is over here like \'I got my grandpa high and then I showed him my titties\' - Taylor Tomlinson',	
 'No joke - I just got high with my grandma for Father\'s Day on Sunday. -Delanie Fischer',
-'Great things are not done by impulse, but by a series of things brought together. - Vince Van Gogh',
 'Great things are not done by impulse, but by a series of things brought together - Vince Van Gogh',
 'Whether you think you can, or you thin you can\'t you\'re right.'
 ]
